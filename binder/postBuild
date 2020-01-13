@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Install Ten Plates Templates
+jupyter labextension install ten-plates-templates
